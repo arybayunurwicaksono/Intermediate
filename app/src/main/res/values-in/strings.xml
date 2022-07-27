@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Story Apps</string>
+
+    <string name="welcome">Selamat Datang di</string>
+    <string name="login_message">Aplikasi Cerita</string>
+    <string name="login">Login</string>
+    <string name="register">Registrasi</string>
+    <string name="registration_error">Registrasi gagal</string>
+    <string name="registration_success">Registrasi berhasil</string>
+    <string name="register_guide">Belum punya akun?</string>
+    <string name="already_have_an_account">Sudah punya akun?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome_message">Bergabung bersama kami dan berbagi cerita bersama ribuan user yang lain</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="email_required">Email dibutuhkan</string>
+    <string name="name_required">Nama dibutuhkan</string>
+    <string name="password_required">Password dibutuhkan</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="password_length">Minimal password adalah 6 karakter</string>
+    <string name="login_error">Login gagal</string>
+    <string name="login_success">Login berhasil</string>
+    <string name="welcome_desc">Login untuk tetap terkoneksi dengan user yang lain</string>
+    <string name="main_title">Cerita</string>
+    <string name="add_story">Tambahkan Cerita+</string>
+    <string name="item_username">Ary Bayu Nurwicaksono</string>
+    <string name="item_desc">Ini harusnya cerita</string>
+
+    <string name="create_story">Buat Cerita</string>
+    <string name="add_story_title">Tambahkan Cerita</string>
+
+    <string name="unable_to_load_story">Tidak bisa memuat cerita</string>
+
+    <string name="choose_image">Pilih gambar</string>
+    <string name="desc_empty">Deskripsi dibutuhkan</string>
+    <string name="empty_image">Gambar dibutuhkan</string>
+    <string name="img_upload_error">Maaf, ada sesuatu yang salah pada gambar anda</string>
+    <string name="add_story_success">Cerita telah berhasil diposting</string>
+    <string name="powered_by">Powered by :</string>
+    <string name="fill_it_here">Isi disini</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Bahasa</string>
+    <string name="logout">logout</string>
+    <string name="send">Kirim</string>
+    <string name="write_a_story">Tulis Cerita</string>
+
+    <string name="stories_location">Lokasi Cerita</string>
+    <string name="stay_connected">Stay Connected</string>
+</resources>

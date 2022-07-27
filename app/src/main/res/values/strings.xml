@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Intermediate</string>
+    <string name="welcome">Welcome To</string>
+    <string name="login_message">Story Apps</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="registration_error">Registration failed</string>
+    <string name="registration_success">Registration success</string>
+    <string name="register_guide">Don\'t have an Account?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome_message">Let\'s join us and share your story to other thousand of users</string>
+    <string name="full_name">Full name</string>
+    <string name="email_required">Email is Required</string>
+    <string name="name_required">Name is Required</string>
+    <string name="password_required">Password is Required</string>
+    <string name="invalid_email">Email is not valid</string>
+    <string name="password_length">Minimum password is 6 characters</string>
+    <string name="login_error">Login failed.</string>
+    <string name="login_success">Login successfully</string>
+    <string name="welcome_desc">Login to stay connected with other user</string>
+    <string name="main_title">Story</string>
+
+    <string name="item_username">Ary Bayu Nurwicaksono</string>
+    <string name="item_desc">This is supposed to be story</string>
+
+    <string name="create_story">Create story</string>
+    <string name="add_story_title">Add Story</string>
+
+    <string name="unable_to_load_story">Unable to load story</string>
+
+    <string name="choose_image">Choose image</string>
+    <string name="desc_empty">Description required</string>
+    <string name="empty_image">Image required</string>
+    <string name="img_upload_error">Sorry, there something wrong to upload your image</string>
+    <string name="add_story_success">Story uploaded successfully</string>
+    <string name="powered_by">Powered by :</string>
+    <string name="fill_it_here">Fill it here</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="logout">logout</string>
+    <string name="add_story">Add Story +</string>
+    <string name="send">Send</string>
+    <string name="write_a_story">Write a Story</string>
+
+    <string name="stories_location">Stories Location</string>
+    <string name="stay_connected">Stay Connected</string>
+</resources>
